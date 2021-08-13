@@ -1,0 +1,6 @@
+/Users/calnelson/Projects/BuildAMeasure2/BuildAMeasure2/bin/Debug/BuildAMeasure2.exe
+/Users/calnelson/Projects/BuildAMeasure2/BuildAMeasure2/bin/Debug/BuildAMeasure2.pdb
+/Users/calnelson/Projects/BuildAMeasure2/BuildAMeasure2/obj/Debug/BuildAMeasure2.csproj.AssemblyReference.cache
+/Users/calnelson/Projects/BuildAMeasure2/BuildAMeasure2/obj/Debug/BuildAMeasure2.csproj.CoreCompileInputs.cache
+/Users/calnelson/Projects/BuildAMeasure2/BuildAMeasure2/obj/Debug/BuildAMeasure2.exe
+/Users/calnelson/Projects/BuildAMeasure2/BuildAMeasure2/obj/Debug/BuildAMeasure2.pdb

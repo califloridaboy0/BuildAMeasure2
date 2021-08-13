@@ -1,0 +1,1 @@
+﻿As of now, notebuilder is the class/blueprint for a note (just note name and note value). We have objects for different types of notes - all stored in an array. Our 'while' loop is generating random note values and printing them to the console, until the total sum of note values is equal to 4 (one measure of common time).

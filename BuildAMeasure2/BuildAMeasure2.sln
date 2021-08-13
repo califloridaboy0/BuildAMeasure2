@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildAMeasure2", "BuildAMeasure2\BuildAMeasure2.csproj", "{1D495E75-6F97-4C69-84F7-00DC9822867F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D495E75-6F97-4C69-84F7-00DC9822867F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1D495E75-6F97-4C69-84F7-00DC9822867F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1D495E75-6F97-4C69-84F7-00DC9822867F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1D495E75-6F97-4C69-84F7-00DC9822867F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F2336A4-71B6-485A-9203-46392461B606}
+	EndGlobalSection
+EndGlobal
